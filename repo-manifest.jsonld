@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ts1/BLEUnlock/commit/2eeb35dcaa4e34ac994380e5dc9c0a692a6f7394",
       "git:hexsha": "2eeb35dcaa4e34ac994380e5dc9c0a692a6f7394",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T02:23:14.651272+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ts1/BLEUnlock/commit/672f437d5ac3116cd069a8b35c8535ae797cf6d5",
